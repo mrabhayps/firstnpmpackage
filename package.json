@@ -1,0 +1,19 @@
+{
+  "name": "@mrabhayps/simplehello",
+  "version": "1.0.0",
+  "description": "This is test package to learn the concept of creating package and using  this package into other project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrabhayps/firstnpmpackage.git"
+  },
+  "author": "Abhay Pratap Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrabhayps/firstnpmpackage/issues"
+  },
+  "homepage": "https://github.com/mrabhayps/firstnpmpackage#readme"
+}
